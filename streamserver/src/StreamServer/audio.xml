@@ -1,0 +1,14 @@
+<AudioPhones>
+    <audiophone id="1">
+        <issend>True</issend>
+        <ip>192.168.1.230</ip>
+    </audiophone>
+    <audiophone id="2">
+        <issend>False</issend>
+        <ip>192.168.1.120</ip>
+    </audiophone>
+    <audiophone id="3">
+        <issend>False</issend>
+        <ip>192.168.1.100</ip>
+    </audiophone>
+</AudioPhones>

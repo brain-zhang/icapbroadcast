@@ -1,0 +1,2 @@
+ ./configure --host=arm-linux --enable-run-as-root --prefix=/tmp/vlc2 --enable-debug --disable-avcodec --disable-hal --disable-avformat --disable-swscale --disable-postproc --disable-a52  --disable-sdl --disable-fribidi --disable-dbus --disable-libgcrypt --disable-gnutls --disable-remoteosd --disable-vlc --disable-x264 --disable-skins2 --disable-qt4 --disable-notify --disable-libxml2 --disable-freetype --disable-bonjour --disable-lua --disable-xcb --disable-glx --disable-opengl -disable-alsa --disable-vorbis --disable-ogg --disable-sqlite
+

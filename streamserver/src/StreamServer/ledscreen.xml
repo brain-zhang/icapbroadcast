@@ -1,0 +1,14 @@
+<LedScreens>
+    <screen id="1">
+        <issend>False</issend>
+        <ip>192.168.1.3</ip>
+        <alert>现在是紧急时刻，请抓紧时间升井</alert>
+        <cancelalert>警报已解除</cancelalert>
+    </screen>
+    <screen id="2">
+        <issend>False</issend>
+        <ip>192.168.1.120</ip>
+        <alert>现在是紧急时刻，请抓紧时间升井</alert>
+        <cancelalert>警报已解除</cancelalert>
+    </screen>
+</LedScreens>
