@@ -38,25 +38,25 @@ icapbroadcase采用 "井上流媒体服务器+井下环网+无线AP+移动终端
 
 ------------------
 Resource:
-.
-|-- arm-linux-vlc (arms3c2440 VLC移植. 环境:arm-linux-GCC4.3.3 Fedora16 vlc1.1.3)
-|   |-- bin
-|   `-- src
-`-- streamserver                            井上流媒体服务器demo, 开发环境vs2010
-    `-- src                                 用于向客户端广播，目前支持udp协议。
-        |-- StreamServer                    程序采用了libvlc作为流媒体服务核心库。
-        |   |-- Debug
-        |   |-- Release
-        |   |-- libvlcwrapper
-        |   |-- res
-        |   `-- tinixml
-        |-- sdk
-        |   |-- include
-        |   |   `-- vlc
-        |   |       `-- plugins
-        |   `-- lib
-        |       `-- pkgconfig
-        `-- setup
+    .
+    |-- arm-linux-vlc (arms3c2440 VLC移植. 环境:arm-linux-GCC4.3.3 Fedora16 vlc1.1.3)
+    |   |-- bin
+    |   `-- src
+    `-- streamserver                            井上流媒体服务器demo, 开发环境vs2010
+        `-- src                                 用于向客户端广播，目前支持udp协议。
+            |-- StreamServer                    程序采用了libvlc作为流媒体服务核心库。
+            |   |-- Debug
+            |   |-- Release
+            |   |-- libvlcwrapper
+            |   |-- res
+            |   `-- tinixml
+            |-- sdk
+            |   |-- include
+            |   |   `-- vlc
+            |   |       `-- plugins
+            |   `-- lib
+            |       `-- pkgconfig
+            `-- setup
 
 使用方法:
 1、编译运行StreamServer.exe
