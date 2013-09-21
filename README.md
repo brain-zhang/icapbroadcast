@@ -61,13 +61,15 @@ Resource
              `-- setup                           innosetup打包脚本
 
 使用方法:
-1、编译运行StreamServer.exe
-2、添加要播放的歌曲文件到列表
-3、点击播放按钮
+
+     1、编译运行StreamServer.exe
+     2、添加要播放的歌曲文件到列表
+     3、点击播放按钮
 
 客户点播放测试:
-1、打开mediaplayer
-2、文件->打开URL
-3、输入:mms://服务器IP:8080  如(mms://192.168.1.1:8080)
+
+     1、打开mediaplayer
+     2、文件->打开URL
+     3、输入:mms://服务器IP:8080  如(mms://192.168.1.1:8080)
 
 
