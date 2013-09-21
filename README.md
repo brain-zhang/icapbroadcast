@@ -38,7 +38,6 @@ icapbroadcase采用 "井上流媒体服务器+井下环网+无线AP+移动终端
 
 ------------------
 Resource:
-    .
     |-- arm-linux-vlc (arms3c2440 VLC移植. 环境:arm-linux-GCC4.3.3 Fedora16 vlc1.1.3)
     |   |-- bin
     |   `-- src
@@ -56,7 +55,7 @@ Resource:
             |   |       `-- plugins
             |   `-- lib
             |       `-- pkgconfig
-            `-- setup
+            `-- setup                           innosetup打包脚本
 
 使用方法:
 1、编译运行StreamServer.exe
